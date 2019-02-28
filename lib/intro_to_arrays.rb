@@ -6,6 +6,6 @@ def array_with_two_elements
   return @my_two_array = [ "red", "blue"]
 end
 
-def my_first_element(@taylor_swift)
+def first_element(@taylor_swift)
   return @taylor_swift.first
 end
