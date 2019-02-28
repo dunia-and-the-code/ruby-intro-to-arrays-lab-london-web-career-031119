@@ -9,3 +9,7 @@ end
 def first_element(array)
   return @taylor_swift[0]
 end
+
+def third_element(array)
+  return @taylor_swift[2]
+end
