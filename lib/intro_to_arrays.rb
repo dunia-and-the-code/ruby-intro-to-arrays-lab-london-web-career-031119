@@ -13,3 +13,7 @@ end
 def third_element(array)
   return @taylor_swift[2]
 end
+
+def last_element(array)
+  return @taylor_swift[-1]
+end
