@@ -7,9 +7,9 @@ def array_with_two_elements
 end
 
 def my_first_element(@taylor_swift)
-  return @taylor_swift.first
+  return @taylor_swift[0]
 end
 
 def my_third_element = third_element(@taylor_swift)
-  return @taylor_swift.third
+  return @taylor_swift[2]
 end
