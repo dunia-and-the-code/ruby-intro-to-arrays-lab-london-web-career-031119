@@ -10,4 +10,6 @@ def my_first_element(@taylor_swift)
   return @taylor_swift.first
 end
 
-def 
+def my_third_element = third_element(@taylor_swift)
+  return @taylor_swift.third
+end
