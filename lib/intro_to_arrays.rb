@@ -6,10 +6,3 @@ def array_with_two_elements
   return @my_two_array = [ "red", "blue"]
 end
 
-def my_first_element(array)
-  return @taylor_swift[0]
-end
-
-def third_element(@taylor_swift)
-  return @taylor_swift[2]
-end
